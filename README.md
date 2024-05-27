@@ -26,4 +26,12 @@ The extension is completely installed. However, by using this solution, we canno
 
 **Coming soon**
 
-_By the way, this solution took me 5 bucks to publish this extension onto a Chrome Web Store. I am very happy if this extension have any VIP person that supported me to publish this._ 
+_By the way, this solution took me 5 bucks to publish this extension onto a Chrome Web Store. I am very happy if this extension have any VIP person that supported me to publish this._
+
+# License
+
+This extension using MIT license. See [LICENSE.md](LICENSE.md)
+
+# Contribution
+
+Glad to see your contribution into this extension. If you have any result, create an issue ticket for the support.
