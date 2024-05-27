@@ -8,5 +8,8 @@
       "js": ["scripts/content.js"],
       "matches": ["https://edusoftweb.hcmiu.edu.vn/*"]
     }
-  ]
+  ],
+  "author": {
+    "email": "nhnguyen.forwork@gmail.com"
+  }
 }
