@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Edusoft Auto In",
+  "description": "This extension bypasses the captcha on International University - Ho Chi Minh City Edusoft page.",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["https://edusoftweb.hcmiu.edu.vn/*"]
+    }
+  ]
+}
